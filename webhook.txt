@@ -1,0 +1,1 @@
+finder.py --workers 30 --proxy-file proxies.txt -u yourwebhookHere
